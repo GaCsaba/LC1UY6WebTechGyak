@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+
+    <title>Honlap</title>
+</head>
+
+<body
+    style="background: rgb(11,126,142);
+background: linear-gradient(90deg, rgba(11,126,142,1) 0%, rgba(23,121,9,1) 30%, rgba(36,175,200,1) 63%, rgba(0,212,255,1) 100%);">
+    <table align="center"
+        style="table-layout:fixed; font-family:tahoma; font-size:14pt; color:white"
+        border="0">
+        <tr style="height:100px">
+            <td colspan="3" style="width:980px; text-align:center">
+                <a href="kezdolap.html" target="keret"><img src="kepek/e2.jpg" height="160" border="3" alt=""></a>
+				<br>
+				<p style="font-size: 10px;">
+                    [1] Bolyai Kollégium (E/2)
+                </p>
+
+					<a href="kezdolap.html" target="keret"> 
+					<button>
+					Vissza a Főoldalra
+					</button>
+					</a>
+				
+                <br>
+                
+            </td>
+        </tr>
+        <tr style="height:30px; font-weight:bold">
+            <td style="text-align:center">
+                <a href="villtan.html" target="keret">
+                    <font style="color:white; text-decoration:none">Villamosságtan 3</font>
+                </a>
+            </td>
+            <td style="text-align:center">
+                <a href="ellatas.html" target="keret">
+                    <font style="color:white; text-decoration:none">Villamosenergia-Ellátás</font>
+                </a>
+            </td>
+            <td style="text-align:center">
+                <a href="villamos_gepek_es_hajtasok.html" target="keret">
+                    <font style="color:white; text-decoration:none">Villamos Gépek és Hajtások</font>
+                </a>
+            </td>
+        </tr>
+        <tr style="height:350px">
+            <td colspan="3" style="text-align:center">
+                <iframe name="keret" src="kezdolap.html" width="100%" height="350" scrolling="auto" frameborder="0"
+                    marginheight="10" marginwidth="20">
+                    A böngésző nem támogatja a belső keretek használatát!
+                </iframe>
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td colspan="3" style="width:640px; text-align:center">
+                &copy; Galgovics Csaba 2021
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
